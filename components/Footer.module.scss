@@ -1,0 +1,14 @@
+.footer {
+  display: block;
+
+  nav {
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0 4rem;
+
+    a {
+      margin: 1rem;
+      padding: 1rem;
+    }
+  }
+}

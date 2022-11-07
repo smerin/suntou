@@ -1,0 +1,86 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  font-family: "Open Sans", "Segoe UI", Tahoma, sans-serif;
+  background: #111;
+  color: white;
+}
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+input, button, textarea, select {
+  font: inherit;
+}
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url("/fonts/OpenSans-Regular.woff2?v=1.1.0") format("woff2"), url("/fonts/OpenSans-Regular.woff?v=1.1.0") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url("/fonts/Italic/OpenSans-Italic.woff2?v=1.1.0") format("woff2"), url("/fonts/Italic/OpenSans-Italic.woff?v=1.1.0") format("woff");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url("/fonts/OpenSans-Bold.woff2?v=1.1.0") format("woff2"), url("/fonts/OpenSans-Bold.woff?v=1.1.0") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url("/fonts/OpenSans-BoldItalic.woff2?v=1.1.0") format("woff2"), url("/fonts/OpenSans-BoldItalic.woff?v=1.1.0") format("woff");
+  font-weight: bold;
+  font-style: italic;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 1em;
+}
+h2 {
+  font-size: 3rem;
+  margin-bottom: 1em;
+}
+h3 {
+  font-size: 2.4rem;
+  margin-bottom: 1em;
+}
+h4 {
+  font-size: 2rem;
+  margin-bottom: 1em;
+}
+h5 {
+  font-size: 1.8rem;
+  margin-bottom: 1em;
+}
+h6 {
+  font-size: 1.8rem;
+  margin-bottom: 1em;
+}
+p, li {
+  font-size: 1.8rem;
+  margin-bottom: 1em;
+}
+
+a {
+  font-size: 1.8rem;
+  color: white;
+  text-decoration: none;
+}
