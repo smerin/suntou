@@ -9,13 +9,22 @@
   height: 80vh;
   overflow: hidden;
 
+  @media(max-width: 768px) {
+    height: 100vh;
+  }
+
   h1 {
     font-size: 8rem;
+    line-height: 1em;
     text-align: center;
     position: relative;
     z-index: 1;
     text-transform: uppercase;
     margin-bottom: 0;
+    color: white;
+    @media(max-width: 768px) {
+      margin-top: 50vh;
+    }
   }
 }
 
