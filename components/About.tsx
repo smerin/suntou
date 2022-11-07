@@ -8,10 +8,10 @@ const About = () => {
         Born a Griot in a 700-year old tradition, the Kora - harp-lute with 22
         strings - is unique to the Griots of the Mandinka people. Griots have a
         unique societal role as oral historians, transmitting and preserving a
-        people's culture through the generations in song, music and poetry.
+        people’s culture through the generations in song, music and poetry.
       </p>
       <p>
-        Suntou's family includes some of the world's most well-respected West
+        Suntou’s family includes some of the world’s most well-respected West
         African musicians. His musical abilities are outstanding, perhaps unique
         for his generation. An in-demand and charismatic performer, he attracted
         attention as soon as he arrived on the UK music scene.
@@ -21,11 +21,11 @@ const About = () => {
         His half brother Seckou Keita, celebrated jazz singer Sarah-Jane Morris,
         Guitarist Tony Remy - Ronnie Scotts, Ghazalaw -Indian-Welsh fusion
         project on BBC Radio 2, 3 and 6, Davide Mantovani, Kora and Modern Jazz
-        fusion, Opera singer Pumeza Matshikiza - performing on ITV's This
+        fusion, Opera singer Pumeza Matshikiza - performing on ITV’s This
         Morning.
       </p>
       <p>
-        A key member of Norway-based 'Kristin Asbjornsen Trio', he co-composed
+        A key member of Norway-based ’Kristin Asbjornsen Trio’, he co-composed
         and recorded a successful album, performing at Jazz festivals around
         Europe. As an acknowledged master of the Kora, Suntou was invited to
         perform alongside world famous Senegalese singer Youssou N’Dour at the
